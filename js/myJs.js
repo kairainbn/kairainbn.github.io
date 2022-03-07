@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "Helo Mai <3",
+  text1: "Hello Mai <3",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu yêu tớ có phải không nào ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
@@ -36,8 +36,8 @@ $(document).ready(function () {
       title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "img/soo.gif",
-      imageWidth: 250,
-      imageHeight: 500,
+      imageWidth: 200,
+      imageHeight: 400,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
