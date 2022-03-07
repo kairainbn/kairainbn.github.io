@@ -8,10 +8,10 @@ const textConfig = {
   text7: "Uầy thật không, Mai nhắn gì với tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
   text9: "Yêu á, yêu rồi thì có cưới tớ không???",
-  text10: "Không dám còn khướt nữa đâu, cưới màaa!",
+  text10: "Cưới màaaaa!",
   text11:
-    "Hôm nay là ngày 8/3 nè, chúc bạn Mai buổi sáng vui vẻ nha <3",
-  text12: "Ukie =))",
+    "Hôm nay là ngày 8/3 này, chúc bạn Mai buổi sáng vui vẻ nha <3",
+  text12: "Ukie :))",
 };
 
 $(document).ready(function () {
