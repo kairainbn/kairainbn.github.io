@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Nma yêu rồi thì cậu có cưới tớ không???",
   text10: "Bạn biết lỗi rồi mà :<, không dám còn khướt nữa đâu. Yêu là cưới :>",
   text11:
-    "Hôm nay là ngày 8/3, chúc cậu vui vẻ nhaaa",
+    "Hôm nay là ngày 8/3, chúc bạn Mai vui vẻ nhaaa",
   text12: "Ukie =))",
 };
 
