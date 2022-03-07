@@ -5,12 +5,12 @@ const textConfig = {
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rồi đó nha :v",
   text5: "Đừng có mơ -.-",
   text6: "Yêu ơi là yêu <3",
-  text7: "Mai nhắn gì với tớ đi :vvvv",
+  text7: "Uầy thật không, Mai nhắn gì với tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Yêu rồi thì có cưới tớ không???",
-  text10: "Cưới chứ yêu là phải cưới không các bạn tán Mai mất :<",
+  text9: "Nma yêu rồi thì có cưới tớ không???",
+  text10: "Cướiii <3",
   text11:
-    "Cơ mà 8/3 vui vẻ nhé <3",
+    "Hôm nay là ngày 8/3, chúc cậu vui vẻ nhaaa",
   text12: "Ukie =))",
 };
 
