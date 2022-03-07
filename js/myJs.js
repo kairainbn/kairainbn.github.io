@@ -8,9 +8,9 @@ const textConfig = {
   text7: "Mai nhắn gì với tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
   text9: "Yêu rồi thì có cưới tớ không???",
-  text10: "Cưới mạnh yêu là phải cưới không các bạn tán Mai mất :((( ",
+  text10: "Cưới chứ yêu là phải cưới không các bạn tán Mai mất :<",
   text11:
-    "8/3 vui vẻ nhé =))",
+    "Cơ mà 8/3 vui vẻ nhé <3",
   text12: "Ukie =))",
 };
 
