@@ -36,8 +36,8 @@ $(document).ready(function () {
       title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "img/soo.gif",
-      imageWidth: 300,
-      imageHeight: 300,
+      imageWidth: 250,
+      imageHeight: 500,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
