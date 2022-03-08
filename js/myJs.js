@@ -135,7 +135,10 @@ $(document).ready(function () {
           confirmButtonText: textConfig.text12,
           background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
-          text: textConfig.text11,
+          //text: textConfig.text11,
+          imageUrl: "img/cuteCat.img",
+          imageWidth: 300,
+          imageHeight: 300,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
             window.location = "https://www.youtube.com/watch?v=aVGfehhal5E&ab_channel=Meens";
