@@ -143,7 +143,7 @@ $(document).ready(function () {
           imageAlt: "Custom image",
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.youtube.com/watch?v=aVGfehhal5E&ab_channel=Meens";
+            window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley";
           },
         });
       }
