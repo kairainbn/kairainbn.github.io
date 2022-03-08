@@ -7,10 +7,10 @@ const textConfig = {
   text6: "Yêu ơi là yêu <3",
   text7: "Uầy thật không, Mai nhắn gì với tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Yêu á, yêu rồi thì có cưới tớ không???",
-  text10: "Cưới màaa!",
+  text9: "Yêu á, yêu rồi thì có cưới không???",
+  text10: "Cưới =)))",
   text11:
-    "Hôm nay là ngày 8/3 này, chúc bạn Mai buổi sáng vui vẻ nha <3",
+    "8/3 vui vẻee",
   text12: "Ukie :))",
 };
 
