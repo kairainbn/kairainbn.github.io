@@ -10,8 +10,8 @@ const textConfig = {
   text9: "Yêu á, yêu rồi thì có cưới không???",
   text10: "Cưới =)))",
   text11:
-    "8/3 vui vẻee",
-  text12: "Ukie :))",
+    "<3",
+  text12: "8/3 vui vẻ",
 };
 
 $(document).ready(function () {
