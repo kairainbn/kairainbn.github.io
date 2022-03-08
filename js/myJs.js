@@ -139,6 +139,7 @@ $(document).ready(function () {
           imageUrl: "img/cuteCat.img",
           imageWidth: 300,
           imageHeight: 300,
+          imageAlt: "Custom image",
           confirmButtonColor: "#83d0c9",
           onClose: () => {
             window.location = "https://www.youtube.com/watch?v=aVGfehhal5E&ab_channel=Meens";
