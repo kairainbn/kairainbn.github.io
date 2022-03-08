@@ -136,7 +136,7 @@ $(document).ready(function () {
           background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
           //text: textConfig.text11,
-          imageUrl: "img/cuteCat.img",
+          imageUrl: "img/cuteCat.jpg",
           imageWidth: 300,
           imageHeight: 300,
           imageAlt: "Custom image",
