@@ -131,7 +131,7 @@ $(document).ready(function () {
     }).then((result) => {
       if (result.value) {
         Swal.fire({
-          width: 900,
+          width: 550,
           confirmButtonText: textConfig.text12,
           background: '#fff url("img/iput-bg.jpg")',
           title: textConfig.text10,
@@ -139,6 +139,7 @@ $(document).ready(function () {
           imageUrl: "img/cuteCat.jpg",
           imageWidth: 300,
           imageHeight: 300,
+          background: '#fff url("img/iput-bg.jpg")',
           imageAlt: "Custom image",
           confirmButtonColor: "#83d0c9",
           onClose: () => {
